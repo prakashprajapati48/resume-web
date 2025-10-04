@@ -264,6 +264,10 @@ nav {
     background: linear-gradient(to right, #FFBFCA, #FFE7EB);
 }
 
+.about {
+    padding-bottom: 4rem;
+}
+
 .about-header {
     justify-items: center;
     margin-top: 3rem;
@@ -570,7 +574,8 @@ nav {
         width: 30%;
     }
 
-    .company_name,.tagline{
+    .company_name,
+    .tagline {
         font-size: 1em;
     }
 
